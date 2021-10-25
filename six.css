@@ -1,0 +1,30 @@
+.button.six {
+	background: none;
+	color: #000;
+}
+
+.button.six svg {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top:0;
+	left:0;
+	fill: none;
+
+}
+
+.button.six rect {
+	width: 100%;
+	height: 100%;
+	stroke: #000;
+	stroke-width: 10px;
+	stroke-dasharray: 1000; /*This is the property to animate*/
+	stroke-dashoffset: 1000;
+	transition: 0.6s ease all;
+
+
+}
+
+.button.six:hover rect {
+	stroke-dashoffset: 0;
+}

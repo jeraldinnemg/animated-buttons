@@ -1,0 +1,38 @@
+.button.five span {
+	transition: 0.4s ease-in-out all;
+	position:absolute;
+	left: 40%; /*This mesuare is manual it depends on the longitude of the text*/
+}
+
+.button.five .icon {
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	position:absolute;
+	z-index:2;
+	left: -40px;
+	transition: 0.3s ease-in-out all;
+	opacity:0;
+
+}
+
+.button.five i {
+	size: 3x;
+	color: #fff;
+}
+
+
+.button.five:hover {
+	background: #2f9b05;
+}
+
+
+.button.five:hover .icon {
+	left: calc(100% - 50px);
+	opacity: 1;
+}
+
+.button.five:hover span {
+	left: 20px;
+}
+
