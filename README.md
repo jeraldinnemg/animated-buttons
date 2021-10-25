@@ -42,9 +42,9 @@ PD: Feel free to make suggestions!
 ### Useful resources
 
 - By FalconMaster[Tutorial: https://youtu.be/c-4wFMGFuCg](https://youtu.be/c-4wFMGFuCg)
-- New property learned:
-- [stroke-width](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/stroke-width) 
-- [stroke-dasharray](https://css-tricks.com/almanac/properties/s/stroke-dasharray/) 
-- [stroke-dasharray](https://css-tricks.com/almanac/properties/s/stroke-dashoffset/) 
+- New properties learned:
+ [stroke-width](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/stroke-width) 
+ [stroke-dasharray](https://css-tricks.com/almanac/properties/s/stroke-dasharray/) 
+ [stroke-dasharray](https://css-tricks.com/almanac/properties/s/stroke-dashoffset/) 
 
 
